@@ -1,0 +1,15 @@
+{
+	"name": "adfazure-spotify",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "83419560-93d8-4c8b-b000-c36893efdd90",
+		"tenantId": "91e33c10-18fa-49fb-a18a-c3ecad88ea12"
+	}
+}
